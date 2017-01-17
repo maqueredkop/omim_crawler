@@ -1,0 +1,70 @@
+Gene Map Search - 'ALZHEIMER'
+Downloaded:	Jan 16, 2017
+Copyright (c) 1966-2017 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+Cytogenetic location	Genomic coordinates (From NCBI/GRCh38)	Gene/Locus	Gene/Locus name	Gene/Locus MIM number	Comments	Phenotype	Phenotype MIM number	Inheritance	Pheno map key	Mouse Gene (from MGI)
+1p36		AD7CNTP	Alzheimer disease neuronal thread protein	607413					
+1q21	1:143200000-155100000	AD13	Alzheimer disease-13	611152	max lod D1S498	{Alzheimer disease-13}	611152		2	
+1q25	1:173000000-185800000	AD14	Alzheimer disease 14	611154	max lod at D1S218	{Alzheimer disease-14}	611154		2	
+1q42.13	1:226870571-226903828	PSEN2, AD4, STM2, CMD1V	Presenilin 2	600759		Cardiomyopathy, dilated, 1V	613697	Autosomal dominant	3	Psen2
+1q42.13	1:226870571-226903828	PSEN2, AD4, STM2, CMD1V	Presenilin 2	600759		Alzheimer disease-4	606889	Autosomal dominant	3	Psen2
+3q22-q24	3:129500000-149200000	AD15	Alzheimer disease 15	611155	max lod at D3S1579	{Alzheimer disease-15}	611155		2	
+6p22.2	6:26087280-26096215	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Hemochromatosis gene	613609		{Microvascular complications of diabetes 7}	612635		3	Hfe
+6p22.2	6:26087280-26096215	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Hemochromatosis gene	613609		{Alzheimer disease, susceptibility to}	104300	Autosomal dominant	3	Hfe
+6p22.2	6:26087280-26096215	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Hemochromatosis gene	613609		[Transferrin serum level QTL2]	614193		3	Hfe
+6p22.2	6:26087280-26096215	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Hemochromatosis gene	613609		Hemochromatosis	235200	Autosomal recessive	3	Hfe
+6p22.2	6:26087280-26096215	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Hemochromatosis gene	613609		{Porphyria variegata, susceptibility to}	176200	Autosomal dominant	3	Hfe
+6p22.2	6:26087280-26096215	HFE, HLA-H, HFE1, MVCD7, TFQTL2	Hemochromatosis gene	613609		{Porphyria cutanea tarda, susceptibility to}	176100	Autosomal dominant	3	Hfe
+6p21.2	6:36600000-40500000	AD17	Alzheimer disease 17	615080	associated with rs75932628T	Alzheimer disease 17	615080		2	
+7q36	7:148200000-159345973	AD10	Alzheimer disease-10	609636	max lod with D7S798	Alzheimer disease-10	609636	Autosomal dominant	2	
+7q36.1	7:150991055-151014598	NOS3	Nitric oxide synthase 3, endothelial cell	163729		{Hypertension, susceptibility to}	145500	Multifactorial	3	Nos3
+7q36.1	7:150991055-151014598	NOS3	Nitric oxide synthase 3, endothelial cell	163729		{Hypertension, pregnancy-induced}	189800	Autosomal dominant	3	Nos3
+7q36.1	7:150991055-151014598	NOS3	Nitric oxide synthase 3, endothelial cell	163729		{Coronary artery spasm 1, susceptibility to}			3	Nos3
+7q36.1	7:150991055-151014598	NOS3	Nitric oxide synthase 3, endothelial cell	163729		{Alzheimer disease, late-onset, susceptibility to}	104300	Autosomal dominant	3	Nos3
+7q36.1	7:150991055-151014598	NOS3	Nitric oxide synthase 3, endothelial cell	163729		{Placental abruption}			3	Nos3
+7q36.1	7:150991055-151014598	NOS3	Nitric oxide synthase 3, endothelial cell	163729		{Ischemic stroke, susceptibility to}	601367	Multifactorial	3	Nos3
+8p12-q22	8:29000000-105100000	AD12	Alzheimer disease 12	611073	max lod at D8S1119	{Alzheimer disease 12}	611073		2	
+9p22.1	9:18500000-19900000	AD11	Alzheimer disease 11	609790	between D9S157 and D9S259	Alzheimer disease-11	609790		2	
+10p13	10:12200000-17300000	AD7	Alzheimer disease 7	606187	max LOD at D10S1423	Alzheimer disease-7	606187		2	
+10q22.2	10:73909181-73917500	PLAU, URK, QPD, BDPLT5	Plasminogen activator, urokinase	191840	proximal to HOX11	{Alzheimer disease, late-onset, susceptibility to}	104300	Autosomal dominant	3	Plau
+10q22.2	10:73909181-73917500	PLAU, URK, QPD, BDPLT5	Plasminogen activator, urokinase	191840	proximal to HOX11	Quebec platelet disorder	601709	Autosomal dominant	3	Plau
+10q24	10:95300000-104000000	AD6	Alzheimer disease 6	605526		Alzheimer disease 6	605526		2	
+10q24.33	10:103453386-103458890	CALHM1, FAM26C	Calcium homeostasis modulator 1	612234	?Alzheimer disease, 605526				Calhm1
+12p13.31	12:9067707-9115961	A2M , A2MD	Alpha-2-macroglobulin	103950	cluster of genes	{Alzheimer disease, susceptibility to}	104300	Autosomal dominant	3	A2m
+12p13.31	12:9067707-9115961	A2M , A2MD	Alpha-2-macroglobulin	103950	cluster of genes	Alpha-2-macroglobulin deficiency	614036	Autosomal dominant	1	A2m
+12p11.23-q13.12	12:26300000-51100000	AD5	Alzheimer disease, familial, type 5	602096		Alzheimer disease-5	602096	Autosomal dominant	2	
+14q24.2	14:73136434-73223690	PSEN1, AD3	Presenilin 1	104311		Alzheimer disease, type 3, with spastic paraparesis and apraxia	607822	Autosomal dominant	3	Psen1
+14q24.2	14:73136434-73223690	PSEN1, AD3	Presenilin 1	104311		Alzheimer disease, type 3	607822	Autosomal dominant	3	Psen1
+14q24.2	14:73136434-73223690	PSEN1, AD3	Presenilin 1	104311		Pick disease	172700	Isolated cases; Autosomal dominant	3	Psen1
+14q24.2	14:73136434-73223690	PSEN1, AD3	Presenilin 1	104311		Acne inversa, familial, 3	613737	Autosomal dominant	3	Psen1
+14q24.2	14:73136434-73223690	PSEN1, AD3	Presenilin 1	104311		Dementia, frontotemporal	600274	Autosomal dominant	3	Psen1
+14q24.2	14:73136434-73223690	PSEN1, AD3	Presenilin 1	104311		Cardiomyopathy, dilated, 1U	613694	Autosomal dominant	3	Psen1
+14q24.2	14:73136434-73223690	PSEN1, AD3	Presenilin 1	104311		Alzheimer disease, type 3, with spastic paraparesis and unusual plaques	607822	Autosomal dominant	3	Psen1
+15q21.3	15:58595203-58749977	ADAM10, MADM, RAK, AD18	A disintegrin and metalloprotease domain 10	602192		{Alzheimer disease 18, susceptibility to}	615590		3	Adam10
+15q21.3	15:58595203-58749977	ADAM10, MADM, RAK, AD18	A disintegrin and metalloprotease domain 10	602192		Reticulate acropigmentation of Kitamura	615537	Autosomal dominant	3	Adam10
+17q22	17:58269855-58280934	MPO	Myeloperoxidase	606989	translocated in t(15;17)(q22;q11.2)	{Lung cancer, protection against, in smokers}			3	Mpo
+17q22	17:58269855-58280934	MPO	Myeloperoxidase	606989	translocated in t(15;17)(q22;q11.2)	{Alzheimer disease, susceptibility to}	104300	Autosomal dominant	3	Mpo
+17q22	17:58269855-58280934	MPO	Myeloperoxidase	606989	translocated in t(15;17)(q22;q11.2)	Myeloperoxidase deficiency	254600	Autosomal recessive	3	Mpo
+19p13.3	19:1040102-1065571	ABCA7, ABCX, AD9	ATP-binding cassette, subfamily A, member 7	605414		{Alzheimer disease 9, susceptibility to}	608907	Autosomal dominant	3	Abca7
+19q13.32	19:44905748-44909394	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	possible 2nd locus for AD2 on chr.19	{?Macular degeneration, age-related}	603075	Autosomal dominant	3	Apoe
+19q13.32	19:44905748-44909394	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	possible 2nd locus for AD2 on chr.19	Sea-blue histiocyte disease	269600	Autosomal recessive	3	Apoe
+19q13.32	19:44905748-44909394	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	possible 2nd locus for AD2 on chr.19	Lipoprotein glomerulopathy	611771		3	Apoe
+19q13.32	19:44905748-44909394	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	possible 2nd locus for AD2 on chr.19	Hyperlipoproteinemia, type III			3	Apoe
+19q13.32	19:44905748-44909394	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	possible 2nd locus for AD2 on chr.19	Alzheimer disease-2	104310	Autosomal dominant	3	Apoe
+19q13.32	19:44905748-44909394	APOE, AD2, LPG, LDLCQ5	Apolipoprotein E	107741	possible 2nd locus for AD2 on chr.19	{Myocardial infarction susceptibility}			3	Apoe
+20p		AD8	Alzheimer disease 8	607116	?related to CST3	Alzheimer disease 8	607116		2	
+21q21.3	21:25880549-26171127	APP, AAA, CVAP, AD1	Amyloid beta (A4) precursor protein	104760	proximal to SOD; very distal q21 or boundary with q22	Alzheimer disease 1, familial	104300	Autosomal dominant	3	App
+21q21.3	21:25880549-26171127	APP, AAA, CVAP, AD1	Amyloid beta (A4) precursor protein	104760	proximal to SOD; very distal q21 or boundary with q22	Cerebral amyloid angiopathy, Dutch, Italian, Iowa, Flemish, Arctic variants	605714	Autosomal dominant	3	App
+Xq21.3	X:87000000-99100000	AD16	Alzheimer disease 16	300756	associated with rs5984894	{Alzheimer disease 16}	300756		2	
+
+
+
+Phenotype Mapping Key
+1 - The disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - The disorder was placed on the map by statistical methods.
+3 - The molecular basis of the disorder is known.
+4 - A contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+
+
